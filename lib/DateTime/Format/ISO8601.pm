@@ -5,7 +5,7 @@ use strict;
 use warnings;
 use namespace::autoclean;
 
-our $VERSION = '0.19';
+our $VERSION = '0.20';
 
 use Carp qw( croak );
 use DateTime 1.45;
